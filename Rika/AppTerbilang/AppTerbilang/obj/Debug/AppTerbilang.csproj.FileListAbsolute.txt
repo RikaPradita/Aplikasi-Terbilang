@@ -1,0 +1,13 @@
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\Rika\AppTerbilang\AppTerbilang\bin\Debug\AppTerbilang.exe.config
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\Rika\AppTerbilang\AppTerbilang\bin\Debug\AppTerbilang.exe
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\Rika\AppTerbilang\AppTerbilang\bin\Debug\AppTerbilang.pdb
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\Rika\AppTerbilang\AppTerbilang\obj\Debug\AppTerbilang.csprojAssemblyReference.cache
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\Rika\AppTerbilang\AppTerbilang\obj\Debug\AppTerbilang.Form1.resources
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\Rika\AppTerbilang\AppTerbilang\obj\Debug\AppTerbilang.Properties.Resources.resources
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\Rika\AppTerbilang\AppTerbilang\obj\Debug\AppTerbilang.csproj.GenerateResource.cache
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\Rika\AppTerbilang\AppTerbilang\obj\Debug\AppTerbilang.csproj.CoreCompileInputs.cache
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\Rika\AppTerbilang\AppTerbilang\obj\Debug\AppTerbilang.exe
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\Rika\AppTerbilang\AppTerbilang\obj\Debug\AppTerbilang.pdb
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\Rika\AppTerbilang\AppTerbilang\bin\Debug\ClassLibrary.dll
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\Rika\AppTerbilang\AppTerbilang\bin\Debug\ClassLibrary.pdb
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\Rika\AppTerbilang\AppTerbilang\obj\Debug\AppTerbilang.csproj.CopyComplete

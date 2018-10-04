@@ -1,0 +1,6 @@
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\Rika\AppTerbilang\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\Rika\AppTerbilang\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\Rika\AppTerbilang\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\Rika\AppTerbilang\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\Rika\AppTerbilang\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\Rika\AppTerbilang\ClassLibrary\obj\Debug\ClassLibrary.pdb
